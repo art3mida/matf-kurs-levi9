@@ -1,2 +1,3 @@
 # matf-kurs-levi9
-# matf-kurs-levi9 - nova verzija
+
+Kurs iz programiranja u jeziku Javascript u organizaciji kompanije Levi9 na Matematickom fakultetu.
